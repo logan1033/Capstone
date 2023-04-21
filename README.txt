@@ -7,9 +7,9 @@ OVERVIEW:
 	-A business proposal ("Capstone Report.docx")
 	-A machine learning model ("capstone.ipynp")
 -The task was to "Develop a machine learning model applicable to a business problem." 
-	-The database used to train my model was retrieved from Kaggle.com
-	-The "business problem" is fraudulent transactions.
--Developed in Visual Studio Code in Python using Jupyter Notebooks.
+	-The database used to train my model was retrieved from Kaggle.com (Personal Choice)
+	-The "business problem" is fraudulent transactions. 
+-Developed in Visual Studio Code in Python using Jupyter Notebooks and Anaconda.
 
 BASIC KNOWLEDGE DISPLAYED:
 -Python
